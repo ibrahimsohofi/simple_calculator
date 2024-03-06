@@ -1,0 +1,7 @@
+var num;
+function typing(){
+
+
+}
+
+
